@@ -6,6 +6,10 @@ SmartCommerce AI is an AI-powered email automation system built using **n8n, Ope
 
 The system uses AI-powered classification to route customer emails into two separate workflows.
 
+## Workflow Overview
+
+![SmartCommerce AI n8n Workflow](smartcommerce-workflow.png)
+
 ## Key Features
 
 - **Intelligent Email Classification:** Automatically identifies customer orders and product inquiries.
