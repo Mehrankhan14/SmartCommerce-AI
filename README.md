@@ -8,7 +8,7 @@ The system uses AI-powered classification to route customer emails into two sepa
 
 ## Workflow Overview
 
-![SmartCommerce AI n8n Workflow](SmartCommerce.png)
+![SmartCommerce AI n8n Workflow](SmartCommerce.PNG)
 
 ## Key Features
 
